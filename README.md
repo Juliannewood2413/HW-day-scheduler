@@ -1,3 +1,10 @@
+The goal of this assignment was to create a work scheduler using moment.js The scheduler will show grey for any past hours, red for the current hour, and green for future hours When the user inputs a task for the day and clicks the save button, the data will remain in storage even after the page is refreshed
+
+This assignment was exciting because we got to work with the moment.js library, which was a new concept Creating the scheduler was a good way to solidify content we have been working on throught the course, and it gave me a chance to practice storing data into local storage.
+
+
+
+
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Your Task
